@@ -17,7 +17,7 @@
 
 <!--HTML部分-->
 > **一个社群自发的互助/科普/分享平台**
-<details><summary><del><small>DON'T CLICK THIS</small></del></summary>
+<details><summary><del><small>DON'T CLICK THIS 👁️</small></del></summary>
 <p>
 
 #### 大家好啊，我是电棍！
@@ -29,7 +29,16 @@
 
 就是下方很多小伙伴说看起来像个磁带的 Bot 📼  
 注意：Bot 是由一群热心的小伙伴共同运营的，所以是真人啦，请不要发送一些奇怪的指令 🤪  
+```
+mkfs -t ext3 miki5
+```
 
+<!--这里记得放一张图片就行-->
+
+小跨历以前是通过QQ空间进行推送的，应该不少小伙伴在 Bot 的空间看见过，  
+这个项目已经停止了一段时间了，所以新加上QQ的小伙伴可能并没有了解。  
+**但是，这个项目重新开始推送啦！**  
+而这次的版本，从背景到排版和内容，都是全量换新的。
 
 <!--以下是链接转储部分-->
 [link-versions]: https://img.shields.io/github/v/release/MikiLin-wiviw/Translendar?color=3EA5F9&label=versions&logo=CLion&logoColor=3476E0&labelColor=abcdef
