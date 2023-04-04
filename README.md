@@ -79,7 +79,7 @@ mkfs -t ext3 miki5
 即 [知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议][link-license]
 
 
-<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener"><span><img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" alt="CC-BY-NC-ND" width="88" height="31"></span> </a>
+[1][link-license]
 
 
 <!--以下是链接转储部分-->
