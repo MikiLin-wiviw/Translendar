@@ -21,7 +21,7 @@
 <p>
 
 #### 大家好啊，我是电棍！
-<a href="https://www.bilibili.com/video/BV1JB4y1s7Dk/"><img src="https://raw.githubusercontent.com/MikiLin-wiviw/Translendar/main/data/images/OTTO.png" alt="电棍" width="120" height="100"></a>
+<a href="https://www.bilibili.com/video/BV1JB4y1s7Dk/" target="_blank"><img src="https://raw.githubusercontent.com/MikiLin-wiviw/Translendar/main/data/images/OTTO.png" alt="电棍" width="120" height="100"></a>
 
 </p>
 </details>
