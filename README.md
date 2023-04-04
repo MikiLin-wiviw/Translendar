@@ -12,7 +12,8 @@
 
 ## 哇咔咔，这里是小跨历哦 😋
 大家好呀，不知道大家知不知道 **`` 跨性别相关BOT ``**  
-<details><summary><del>DON'T CLICK THIS</del></summary>
+> **一个社群自发的互助/科普/分享平台**
+<details><summary><del><small>DON'T CLICK THIS</small></del></summary>
 <p>
 
 #### 大家好啊，我叫电棍
