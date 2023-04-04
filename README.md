@@ -80,7 +80,7 @@ mkfs -t ext3 miki5
 
 
 <body>
-<base href="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" target="_blank"><img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" alt="CC-BY-NC-ND" width="88" height="31"></a>
+<base href="" target="_blank"><img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" alt="CC-BY-NC-ND" width="88" height="31"></a>
 </body>
 
 
