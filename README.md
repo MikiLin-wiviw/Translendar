@@ -23,7 +23,7 @@
 
 #### 大家好啊，我是电棍！
 
-<a href="https://www.bilibili.com/video/BV1JB4y1s7Dk/"><img src="https://raw.githubusercontent.com/MikiLin-wiviw/Translendar/main/data/images/OTTO.png" alt="电棍" width="120" height="100"></a>
+<a href="https://www.bilibili.com/video/BV1JB4y1s7Dk/" target="_blank"><img src="https://raw.githubusercontent.com/MikiLin-wiviw/Translendar/main/data/images/OTTO.png" alt="电棍" width="120" height="100"></a>
 
 </p>
 </details>
@@ -51,7 +51,7 @@ mkfs -t ext3 miki5
 也许这个版本的排版比较不那么对味，  
 因为在制作背景图的时候，采用了一个没怎么尝试的风格，也算是一种新的挑战了。  
 如果各位小伙伴有什么好的建议，可以直接将你的建议发送到咱工作室的邮箱。   
->霖朴的邮箱 📧: Miki_Lin@mikistudio.cn   
+>霖朴的邮箱 📧: Miki_Lin@mikistudio.cn  
 ``（你的每一条宝贵建议都将得到记录）``
 
 
@@ -78,8 +78,13 @@ mkfs -t ext3 miki5
 项目遵循 `CC BY-NC-ND 4.0` 协议。  
 即 [知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议][link-license]
 
+<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="CC-BY-NC-ND 4.0" width="88" height="31"></a>
 
-[1][link-license]
+<head>
+    <base target="_blank" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+    <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="CC-BY-NC-ND 4.0" width="88" height="31"></a>
+</head>
+
 
 
 <!--以下是链接转储部分-->
