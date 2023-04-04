@@ -1,5 +1,5 @@
 # Translendar
-[![pic-Header]][link-Translendar] 
+[![pic-TestHeader]][link-Translendar] 
 
 <!--HTML部分-->
 <div align="center">
@@ -92,5 +92,6 @@ mkfs -t ext3 miki4
 [link-license]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 
 [pic-header]: /data/images/header.svg
+[pic-TestHeader]: /data/images/Test_Header.svg
 [pic-OTTO]: /data/images/OTTO.png
 [pic-license-PNG]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
