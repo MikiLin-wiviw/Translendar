@@ -1,5 +1,5 @@
 # Translendar
-![lib-Header][link-header]  
+[![link-Header]][link-Translendar] 
 
 <!--HTML部分-->
 <div align="center">
@@ -88,6 +88,7 @@ mkfs -t ext3 miki4
 [link-stars]: https://img.shields.io/github/stars/MikiLin-wiviw/Translendar?color=FFA4C9&logo=Google%20Fit&logoColor=AF3869&labelColor=FCD4E4
 [link-downloads]: https://img.shields.io/github/downloads/MikiLin-wiviw/Translendar/total?color=E2D281&logo=Markdown&logoColor=665E36&labelColor=F2EBCC
 [link-header]: /data/images/header.svg
+[link-Translendar]: https://github.com/MikiLin-wiviw/Translendar
 [link-OTTO]: /data/images/OTTO.png 
 [link-license-PNG]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
 [link-license]: http://creativecommons.org/licenses/by-nc-nd/4.0/
