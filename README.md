@@ -1,5 +1,5 @@
 # Translendar
-[![link-Header]][link-Translendar] 
+[![pic-Header]][link-Translendar] 
 
 <!--HTML部分-->
 <div align="center">
@@ -78,7 +78,7 @@ mkfs -t ext3 miki4
 项目遵循 `CC BY-NC-ND 4.0` 协议，  
 即 [知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议][link-license]。
 
-<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="CC BY-NC-ND 4.0" width="88" height="31"></a>
+[![pic-license-PNG]][link-license] 
 
 
 
@@ -87,8 +87,8 @@ mkfs -t ext3 miki4
 [link-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Translendar?color=6EF9DF&logo=Aseprite&logoColor=1C4F45&labelColor=B6DDD5
 [link-stars]: https://img.shields.io/github/stars/MikiLin-wiviw/Translendar?color=FFA4C9&logo=Google%20Fit&logoColor=AF3869&labelColor=FCD4E4
 [link-downloads]: https://img.shields.io/github/downloads/MikiLin-wiviw/Translendar/total?color=E2D281&logo=Markdown&logoColor=665E36&labelColor=F2EBCC
-[link-header]: /data/images/header.svg
 [link-Translendar]: https://github.com/MikiLin-wiviw/Translendar
-[link-OTTO]: /data/images/OTTO.png 
-[link-license-PNG]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
 [link-license]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[pic-header]: /data/images/header.svg
+[pic-OTTO]: /data/images/OTTO.png
+[pic-license-PNG]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
