@@ -75,15 +75,10 @@ mkfs -t ext3 miki5
 🔴 项目仅授权给了 `跨性别相关 Bot` 用于小跨历的每日推送，  
 > 保护他人的知识产权，是一件远大且重要的事情，同时也是对他人的一种尊重！
 
-项目遵循 `CC BY-NC-ND 4.0` 协议。  
-即 [知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议][link-license]
+项目遵循 `CC BY-NC-ND 4.0` 协议，  
+即 [知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议][link-license]。
 
-<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="CC-BY-NC-ND 4.0" width="88" height="31"></a>
-
-<head>
-    <base target="_blank" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
-    <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="CC-BY-NC-ND 4.0" width="88" height="31"></a>
-</head>
+<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="CC BY-NC-ND 4.0" width="88" height="31"></a>
 
 
 
