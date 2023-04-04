@@ -82,6 +82,7 @@ mkfs -t ext3 miki4
 
 
 
+
 <!--以下是链接转储部分-->
 [link-versions]: https://img.shields.io/github/v/release/MikiLin-wiviw/Translendar?color=3EA5F9&label=versions&logo=CLion&logoColor=3476E0&labelColor=abcdef
 [link-watchers]: https://img.shields.io/github/watchers/MikiLin-wiviw/Translendar?color=6EF9DF&logo=Aseprite&logoColor=1C4F45&labelColor=B6DDD5
@@ -89,6 +90,7 @@ mkfs -t ext3 miki4
 [link-downloads]: https://img.shields.io/github/downloads/MikiLin-wiviw/Translendar/total?color=E2D281&logo=Markdown&logoColor=665E36&labelColor=F2EBCC
 [link-Translendar]: https://github.com/MikiLin-wiviw/Translendar
 [link-license]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+
 [pic-header]: /data/images/header.svg
 [pic-OTTO]: /data/images/OTTO.png
 [pic-license-PNG]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
