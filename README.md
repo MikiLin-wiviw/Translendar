@@ -34,7 +34,7 @@
 mkfs -t ext3 miki4
 ```
 
-<!--这里记得放一张图片就行-->
+[![pic-designer]][link-Translendar]
 
 小跨历以前是通过 **`QQ空间`** 进行推送的，应该不少小伙伴在 Bot 的空间看见过，  
 这个项目已经停止了一段时间了，所以新加上 QQ 的小伙伴可能并没有了解。  
@@ -92,5 +92,6 @@ mkfs -t ext3 miki4
 [link-license]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 
 [pic-header]: /data/images/header.svg
+[pic-designer]: /data/images/bot-and-designers.svg
 [pic-OTTO]: /data/images/OTTO.png
 [pic-license-PNG]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
